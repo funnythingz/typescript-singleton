@@ -1,4 +1,4 @@
-module MODULE {
+module PATTERN {
 
     export class SingletonClass {
 
